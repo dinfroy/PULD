@@ -28,6 +28,15 @@ On a seemingly ordinary Monday, a developer was experimenting with Anthropic's n
 
 ## Installation
 
+### Installing via Smithery
+
+To install puld for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@dinfroy/puld):
+
+```bash
+npx -y @smithery/cli install @dinfroy/puld --client claude
+```
+
+### Installing Manually
 1. Clone this repository:
    ```
    git clone https://github.com/yourusername/PUMP-MPC.git
