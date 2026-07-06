@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dinfroy-puld-badge.png)](https://mseep.ai/app/dinfroy-puld)
+
 # PUMP-MCP: Solana Token Creator & 
 [![smithery badge](https://smithery.ai/badge/@8bitsats/pump-mcp)](https://smithery.ai/server/@8bitsats/pump-mcp)
 
